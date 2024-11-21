@@ -70,6 +70,7 @@ class _ButtonsClassState extends State<ButtonsClass> {
                     });
                   },
                 ),
+                const SizedBox(height: 10),
                 //Custom Button 2-----------------------
                 CustomButton(
                   btnName: 'Sub',
@@ -89,6 +90,7 @@ class _ButtonsClassState extends State<ButtonsClass> {
                     });
                   },
                 ),
+                const SizedBox(height: 10),
                 //Custom Button 3---------------
                 CustomButton(
                   btnName: 'Refresh',
